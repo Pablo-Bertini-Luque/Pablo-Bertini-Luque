@@ -1,7 +1,7 @@
 <img src="https://crehana-blog.imgix.net/media/filer_public/4f/f2/4ff29197-d3b6-40d5-8ed9-6695f3b635ff/que-es-react.jpg" width="1000px" height="300px" />      
 
 
-### Hola! 👋 Soy Pablo
+### Hola! 👋 Soy Pablo, FullStack Web Developer 🤓
 ```javascript
 const pablo = {
    pronouns: "he" | "him",
