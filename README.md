@@ -42,7 +42,7 @@ Estoy buscando realizar mis primeras experiencias en el mundo de la programació
   </p>
 
   <br/>
-<h2>Curriculum Vitae Online</h2>
+<h2>Curriculum Vitae/h2>
 <p align="left">
   <a href="https://cv-pablo-bertini-luque.netlify.app/" target="blank" title="Gmail">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUFXO4IAMJI0K3ChWRZPXZRF7gWCr5sSdegMju6NTnA&s" width="100px" height="50px" alt="CV-Pablo-Bertini-Luque"/></a>
