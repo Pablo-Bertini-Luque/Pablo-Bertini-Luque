@@ -35,16 +35,16 @@ Estoy buscando realizar mis primeras experiencias en el mundo de la programació
 <br/>
 <h2>Contacto</h2>
 <p align="left">
-  <a href="mailto: pablobertiniluque@gmail.com" target="blank" title="Gmail">
+  <a href="mailto: pablobertiniluque@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/pablo-ezequiel-bertini-luque/" target="blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/pablo-ezequiel-bertini-luque/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   </p>
 
   <br/>
-<h2>Curriculum Vitae/h2>
+<h2>Curriculum Vitae</h2>
 <p align="left">
   <a href="https://cv-pablo-bertini-luque.netlify.app/" target="blank" title="Gmail">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUFXO4IAMJI0K3ChWRZPXZRF7gWCr5sSdegMju6NTnA&s" width="100px" height="50px" alt="CV-Pablo-Bertini-Luque"/></a>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUFXO4IAMJI0K3ChWRZPXZRF7gWCr5sSdegMju6NTnA&s" target="_blank" width="100px" height="50px" alt="CV-Pablo-Bertini-Luque"/></a>
 
 
